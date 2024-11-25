@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+qtermwidget6 (6.2.0-1deepin0) unstable; urgency=medium
 
-  * Initial release
+  * Initial release.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Wang Zichong <wangzichong@deepin.org>  Mon, 25 Nov 2024 20:45:00 +0800
